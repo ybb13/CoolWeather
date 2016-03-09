@@ -7,10 +7,11 @@
     android:paddingLeft="@dimen/activity_horizontal_margin"
     android:paddingRight="@dimen/activity_horizontal_margin"
     android:paddingTop="@dimen/activity_vertical_margin"
-    tools:context="com.s015.ybbapp.com.coolweather.MainActivity">
+    tools:context=".activity.MainActivity"
+    android:background="#fdfcfc">
 
     <TextView
+        android:id="@+id/city_name"
         android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="Hello World!" />
+        android:layout_height="wrap_content" />
 </RelativeLayout>

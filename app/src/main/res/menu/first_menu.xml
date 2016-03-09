@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group >
+    <item
+        android:id="@+id/creat_City"
+        android:orderInCategory="90"
+        android:title="创建城市"/>
+    <item
+        android:id="@+id/load_City"
+        android:orderInCategory="90"
+        android:title="下载城市"/>
+    <item
+        android:id="@+id/query_City"
+        android:orderInCategory="90"
+        android:title="查询城市"/>
+    <item
+        android:id="@+id/update_City"
+        android:orderInCategory="90"
+        android:title="更新城市"/>
+    </group>
+
+</menu>

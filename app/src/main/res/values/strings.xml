@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">CoolWeather</string>
+    <string name="URL">http://LocalHost:8888/coolweather/beijing.json</string>
 </resources>
